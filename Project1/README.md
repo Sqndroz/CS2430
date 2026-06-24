@@ -5,6 +5,7 @@ Course: CS 2430
 Semester: Summer 2026
 
 Language: Java
+
 Version: OpenJDK 21.0.11
 
 ## Project Description
