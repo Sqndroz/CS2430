@@ -1,6 +1,6 @@
 /*
  * Sandro Demartin
- * CS 2430, Section ___
+ * CS 2430, Section 501
  * Programming Project 1 - Summer 2026
  *
  * This file creates the integer arrays used for testing the sorting algorithms.
