@@ -1,0 +1,41 @@
+strategy,run,turns,seed,index,square,type,count,percentage
+A,5,100,3435,0,GO,GO,4,4.000000
+A,5,100,3435,1,Mediterranean Avenue,Property,3,3.000000
+A,5,100,3435,2,Community Chest 1,Community Chest,4,4.000000
+A,5,100,3435,3,Baltic Avenue,Property,0,0.000000
+A,5,100,3435,4,Income Tax,Tax,1,1.000000
+A,5,100,3435,5,Reading Railroad,Railroad,2,2.000000
+A,5,100,3435,6,Oriental Avenue,Property,1,1.000000
+A,5,100,3435,7,Chance 1,Chance,1,1.000000
+A,5,100,3435,8,Vermont Avenue,Property,4,4.000000
+A,5,100,3435,9,Connecticut Avenue,Property,4,4.000000
+A,5,100,3435,10,Jail / Just Visiting,Jail,6,6.000000
+A,5,100,3435,11,St. Charles Place,Property,4,4.000000
+A,5,100,3435,12,Electric Company,Utility,3,3.000000
+A,5,100,3435,13,States Avenue,Property,3,3.000000
+A,5,100,3435,14,Virginia Avenue,Property,1,1.000000
+A,5,100,3435,15,Pennsylvania Railroad,Railroad,6,6.000000
+A,5,100,3435,16,St. James Place,Property,3,3.000000
+A,5,100,3435,17,Community Chest 2,Community Chest,2,2.000000
+A,5,100,3435,18,Tennessee Avenue,Property,4,4.000000
+A,5,100,3435,19,New York Avenue,Property,2,2.000000
+A,5,100,3435,20,Free Parking,Free Parking,3,3.000000
+A,5,100,3435,21,Kentucky Avenue,Property,3,3.000000
+A,5,100,3435,22,Chance 2,Chance,2,2.000000
+A,5,100,3435,23,Indiana Avenue,Property,1,1.000000
+A,5,100,3435,24,Illinois Avenue,Property,1,1.000000
+A,5,100,3435,25,B. & O. Railroad,Railroad,4,4.000000
+A,5,100,3435,26,Atlantic Avenue,Property,5,5.000000
+A,5,100,3435,27,Ventnor Avenue,Property,3,3.000000
+A,5,100,3435,28,Water Works,Utility,1,1.000000
+A,5,100,3435,29,Marvin Gardens,Property,4,4.000000
+A,5,100,3435,30,Go to Jail,Go to Jail,0,0.000000
+A,5,100,3435,31,Pacific Avenue,Property,1,1.000000
+A,5,100,3435,32,North Carolina Avenue,Property,2,2.000000
+A,5,100,3435,33,Community Chest 3,Community Chest,3,3.000000
+A,5,100,3435,34,Pennsylvania Avenue,Property,2,2.000000
+A,5,100,3435,35,Short Line,Railroad,1,1.000000
+A,5,100,3435,36,Chance 3,Chance,1,1.000000
+A,5,100,3435,37,Park Place,Property,2,2.000000
+A,5,100,3435,38,Luxury Tax,Tax,2,2.000000
+A,5,100,3435,39,Boardwalk,Property,1,1.000000

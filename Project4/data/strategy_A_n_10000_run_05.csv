@@ -1,0 +1,41 @@
+strategy,run,turns,seed,index,square,type,count,percentage
+A,5,10000,102435,0,GO,GO,313,3.130000
+A,5,10000,102435,1,Mediterranean Avenue,Property,174,1.740000
+A,5,10000,102435,2,Community Chest 1,Community Chest,190,1.900000
+A,5,10000,102435,3,Baltic Avenue,Property,203,2.030000
+A,5,10000,102435,4,Income Tax,Tax,229,2.290000
+A,5,10000,102435,5,Reading Railroad,Railroad,311,3.110000
+A,5,10000,102435,6,Oriental Avenue,Property,232,2.320000
+A,5,10000,102435,7,Chance 1,Chance,101,1.010000
+A,5,10000,102435,8,Vermont Avenue,Property,223,2.230000
+A,5,10000,102435,9,Connecticut Avenue,Property,218,2.180000
+A,5,10000,102435,10,Jail / Just Visiting,Jail,717,7.170000
+A,5,10000,102435,11,St. Charles Place,Property,260,2.600000
+A,5,10000,102435,12,Electric Company,Utility,268,2.680000
+A,5,10000,102435,13,States Avenue,Property,210,2.100000
+A,5,10000,102435,14,Virginia Avenue,Property,262,2.620000
+A,5,10000,102435,15,Pennsylvania Railroad,Railroad,282,2.820000
+A,5,10000,102435,16,St. James Place,Property,296,2.960000
+A,5,10000,102435,17,Community Chest 2,Community Chest,287,2.870000
+A,5,10000,102435,18,Tennessee Avenue,Property,288,2.880000
+A,5,10000,102435,19,New York Avenue,Property,318,3.180000
+A,5,10000,102435,20,Free Parking,Free Parking,267,2.670000
+A,5,10000,102435,21,Kentucky Avenue,Property,304,3.040000
+A,5,10000,102435,22,Chance 2,Chance,104,1.040000
+A,5,10000,102435,23,Indiana Avenue,Property,256,2.560000
+A,5,10000,102435,24,Illinois Avenue,Property,328,3.280000
+A,5,10000,102435,25,B. & O. Railroad,Railroad,317,3.170000
+A,5,10000,102435,26,Atlantic Avenue,Property,266,2.660000
+A,5,10000,102435,27,Ventnor Avenue,Property,274,2.740000
+A,5,10000,102435,28,Water Works,Utility,283,2.830000
+A,5,10000,102435,29,Marvin Gardens,Property,251,2.510000
+A,5,10000,102435,30,Go to Jail,Go to Jail,0,0.000000
+A,5,10000,102435,31,Pacific Avenue,Property,227,2.270000
+A,5,10000,102435,32,North Carolina Avenue,Property,277,2.770000
+A,5,10000,102435,33,Community Chest 3,Community Chest,225,2.250000
+A,5,10000,102435,34,Pennsylvania Avenue,Property,257,2.570000
+A,5,10000,102435,35,Short Line,Railroad,233,2.330000
+A,5,10000,102435,36,Chance 3,Chance,70,0.700000
+A,5,10000,102435,37,Park Place,Property,202,2.020000
+A,5,10000,102435,38,Luxury Tax,Tax,227,2.270000
+A,5,10000,102435,39,Boardwalk,Property,250,2.500000

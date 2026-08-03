@@ -1,0 +1,41 @@
+strategy,run,turns,seed,index,square,type,count,percentage
+B,4,100,10003434,0,GO,GO,5,5.000000
+B,4,100,10003434,1,Mediterranean Avenue,Property,2,2.000000
+B,4,100,10003434,2,Community Chest 1,Community Chest,1,1.000000
+B,4,100,10003434,3,Baltic Avenue,Property,1,1.000000
+B,4,100,10003434,4,Income Tax,Tax,2,2.000000
+B,4,100,10003434,5,Reading Railroad,Railroad,2,2.000000
+B,4,100,10003434,6,Oriental Avenue,Property,3,3.000000
+B,4,100,10003434,7,Chance 1,Chance,0,0.000000
+B,4,100,10003434,8,Vermont Avenue,Property,4,4.000000
+B,4,100,10003434,9,Connecticut Avenue,Property,2,2.000000
+B,4,100,10003434,10,Jail / Just Visiting,Jail,12,12.000000
+B,4,100,10003434,11,St. Charles Place,Property,3,3.000000
+B,4,100,10003434,12,Electric Company,Utility,1,1.000000
+B,4,100,10003434,13,States Avenue,Property,3,3.000000
+B,4,100,10003434,14,Virginia Avenue,Property,4,4.000000
+B,4,100,10003434,15,Pennsylvania Railroad,Railroad,2,2.000000
+B,4,100,10003434,16,St. James Place,Property,6,6.000000
+B,4,100,10003434,17,Community Chest 2,Community Chest,2,2.000000
+B,4,100,10003434,18,Tennessee Avenue,Property,4,4.000000
+B,4,100,10003434,19,New York Avenue,Property,3,3.000000
+B,4,100,10003434,20,Free Parking,Free Parking,1,1.000000
+B,4,100,10003434,21,Kentucky Avenue,Property,1,1.000000
+B,4,100,10003434,22,Chance 2,Chance,1,1.000000
+B,4,100,10003434,23,Indiana Avenue,Property,4,4.000000
+B,4,100,10003434,24,Illinois Avenue,Property,4,4.000000
+B,4,100,10003434,25,B. & O. Railroad,Railroad,5,5.000000
+B,4,100,10003434,26,Atlantic Avenue,Property,1,1.000000
+B,4,100,10003434,27,Ventnor Avenue,Property,2,2.000000
+B,4,100,10003434,28,Water Works,Utility,0,0.000000
+B,4,100,10003434,29,Marvin Gardens,Property,1,1.000000
+B,4,100,10003434,30,Go to Jail,Go to Jail,0,0.000000
+B,4,100,10003434,31,Pacific Avenue,Property,3,3.000000
+B,4,100,10003434,32,North Carolina Avenue,Property,4,4.000000
+B,4,100,10003434,33,Community Chest 3,Community Chest,1,1.000000
+B,4,100,10003434,34,Pennsylvania Avenue,Property,3,3.000000
+B,4,100,10003434,35,Short Line,Railroad,2,2.000000
+B,4,100,10003434,36,Chance 3,Chance,0,0.000000
+B,4,100,10003434,37,Park Place,Property,1,1.000000
+B,4,100,10003434,38,Luxury Tax,Tax,2,2.000000
+B,4,100,10003434,39,Boardwalk,Property,2,2.000000

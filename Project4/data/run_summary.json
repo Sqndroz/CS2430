@@ -1,0 +1,314 @@
+{
+  "A": {
+    "100": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 6.9
+        },
+        {
+          "index": 18,
+          "square": "Tennessee Avenue",
+          "mean_percentage": 4.2
+        },
+        {
+          "index": 15,
+          "square": "Pennsylvania Railroad",
+          "mean_percentage": 4.1
+        },
+        {
+          "index": 8,
+          "square": "Vermont Avenue",
+          "mean_percentage": 3.4
+        },
+        {
+          "index": 16,
+          "square": "St. James Place",
+          "mean_percentage": 3.4
+        }
+      ]
+    },
+    "1000": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 7.08
+        },
+        {
+          "index": 24,
+          "square": "Illinois Avenue",
+          "mean_percentage": 3.19
+        },
+        {
+          "index": 19,
+          "square": "New York Avenue",
+          "mean_percentage": 3.19
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 3.04
+        },
+        {
+          "index": 28,
+          "square": "Water Works",
+          "mean_percentage": 3.03
+        }
+      ]
+    },
+    "10000": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 6.833
+        },
+        {
+          "index": 24,
+          "square": "Illinois Avenue",
+          "mean_percentage": 3.244
+        },
+        {
+          "index": 19,
+          "square": "New York Avenue",
+          "mean_percentage": 3.203
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 3.067
+        },
+        {
+          "index": 25,
+          "square": "B. & O. Railroad",
+          "mean_percentage": 2.984
+        }
+      ]
+    },
+    "100000": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 6.8778
+        },
+        {
+          "index": 24,
+          "square": "Illinois Avenue",
+          "mean_percentage": 3.2158
+        },
+        {
+          "index": 19,
+          "square": "New York Avenue",
+          "mean_percentage": 3.2006
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 3.1082
+        },
+        {
+          "index": 25,
+          "square": "B. & O. Railroad",
+          "mean_percentage": 2.9967
+        }
+      ]
+    }
+  },
+  "B": {
+    "100": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 12.9
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 3.4
+        },
+        {
+          "index": 32,
+          "square": "North Carolina Avenue",
+          "mean_percentage": 3.2
+        },
+        {
+          "index": 5,
+          "square": "Reading Railroad",
+          "mean_percentage": 3.1
+        },
+        {
+          "index": 24,
+          "square": "Illinois Avenue",
+          "mean_percentage": 3.1
+        }
+      ]
+    },
+    "1000": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 13.76
+        },
+        {
+          "index": 18,
+          "square": "Tennessee Avenue",
+          "mean_percentage": 3.1
+        },
+        {
+          "index": 20,
+          "square": "Free Parking",
+          "mean_percentage": 2.94
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 2.79
+        },
+        {
+          "index": 25,
+          "square": "B. & O. Railroad",
+          "mean_percentage": 2.79
+        }
+      ]
+    },
+    "10000": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 13.844
+        },
+        {
+          "index": 24,
+          "square": "Illinois Avenue",
+          "mean_percentage": 2.925
+        },
+        {
+          "index": 18,
+          "square": "Tennessee Avenue",
+          "mean_percentage": 2.876
+        },
+        {
+          "index": 25,
+          "square": "B. & O. Railroad",
+          "mean_percentage": 2.835
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 2.819
+        }
+      ]
+    },
+    "100000": {
+      "top_five": [
+        {
+          "index": 10,
+          "square": "Jail / Just Visiting",
+          "mean_percentage": 13.4928
+        },
+        {
+          "index": 24,
+          "square": "Illinois Avenue",
+          "mean_percentage": 2.935
+        },
+        {
+          "index": 0,
+          "square": "GO",
+          "mean_percentage": 2.8906
+        },
+        {
+          "index": 20,
+          "square": "Free Parking",
+          "mean_percentage": 2.8379
+        },
+        {
+          "index": 19,
+          "square": "New York Avenue",
+          "mean_percentage": 2.8265
+        }
+      ]
+    }
+  },
+  "largest_n_comparison": {
+    "turns": 100000,
+    "largest_absolute_differences": [
+      {
+        "index": 10,
+        "square": "Jail / Just Visiting",
+        "strategy_a_mean_percentage": 6.8778,
+        "strategy_b_mean_percentage": 13.4928,
+        "difference_b_minus_a": 6.615
+      },
+      {
+        "index": 17,
+        "square": "Community Chest 2",
+        "strategy_a_mean_percentage": 2.6659,
+        "strategy_b_mean_percentage": 2.2753,
+        "difference_b_minus_a": -0.3906
+      },
+      {
+        "index": 19,
+        "square": "New York Avenue",
+        "strategy_a_mean_percentage": 3.2006,
+        "strategy_b_mean_percentage": 2.8265,
+        "difference_b_minus_a": -0.3741
+      },
+      {
+        "index": 15,
+        "square": "Pennsylvania Railroad",
+        "strategy_a_mean_percentage": 2.9395,
+        "strategy_b_mean_percentage": 2.6079,
+        "difference_b_minus_a": -0.3316
+      },
+      {
+        "index": 24,
+        "square": "Illinois Avenue",
+        "strategy_a_mean_percentage": 3.2158,
+        "strategy_b_mean_percentage": 2.935,
+        "difference_b_minus_a": -0.2808
+      },
+      {
+        "index": 13,
+        "square": "States Avenue",
+        "strategy_a_mean_percentage": 2.3709,
+        "strategy_b_mean_percentage": 2.1122,
+        "difference_b_minus_a": -0.2587
+      },
+      {
+        "index": 21,
+        "square": "Kentucky Avenue",
+        "strategy_a_mean_percentage": 2.8187,
+        "strategy_b_mean_percentage": 2.5633,
+        "difference_b_minus_a": -0.2554
+      },
+      {
+        "index": 26,
+        "square": "Atlantic Avenue",
+        "strategy_a_mean_percentage": 2.7137,
+        "strategy_b_mean_percentage": 2.4598,
+        "difference_b_minus_a": -0.2539
+      },
+      {
+        "index": 5,
+        "square": "Reading Railroad",
+        "strategy_a_mean_percentage": 2.9309,
+        "strategy_b_mean_percentage": 2.6817,
+        "difference_b_minus_a": -0.2492
+      },
+      {
+        "index": 11,
+        "square": "St. Charles Place",
+        "strategy_a_mean_percentage": 2.7098,
+        "strategy_b_mean_percentage": 2.4868,
+        "difference_b_minus_a": -0.223
+      }
+    ],
+    "maximum_absolute_difference": 6.615
+  }
+}

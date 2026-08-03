@@ -1,0 +1,41 @@
+strategy,run,turns,seed,index,square,type,count,percentage
+A,10,100,3440,0,GO,GO,3,3.000000
+A,10,100,3440,1,Mediterranean Avenue,Property,4,4.000000
+A,10,100,3440,2,Community Chest 1,Community Chest,1,1.000000
+A,10,100,3440,3,Baltic Avenue,Property,0,0.000000
+A,10,100,3440,4,Income Tax,Tax,1,1.000000
+A,10,100,3440,5,Reading Railroad,Railroad,2,2.000000
+A,10,100,3440,6,Oriental Avenue,Property,2,2.000000
+A,10,100,3440,7,Chance 1,Chance,1,1.000000
+A,10,100,3440,8,Vermont Avenue,Property,3,3.000000
+A,10,100,3440,9,Connecticut Avenue,Property,3,3.000000
+A,10,100,3440,10,Jail / Just Visiting,Jail,9,9.000000
+A,10,100,3440,11,St. Charles Place,Property,3,3.000000
+A,10,100,3440,12,Electric Company,Utility,1,1.000000
+A,10,100,3440,13,States Avenue,Property,4,4.000000
+A,10,100,3440,14,Virginia Avenue,Property,1,1.000000
+A,10,100,3440,15,Pennsylvania Railroad,Railroad,4,4.000000
+A,10,100,3440,16,St. James Place,Property,4,4.000000
+A,10,100,3440,17,Community Chest 2,Community Chest,4,4.000000
+A,10,100,3440,18,Tennessee Avenue,Property,4,4.000000
+A,10,100,3440,19,New York Avenue,Property,0,0.000000
+A,10,100,3440,20,Free Parking,Free Parking,4,4.000000
+A,10,100,3440,21,Kentucky Avenue,Property,4,4.000000
+A,10,100,3440,22,Chance 2,Chance,1,1.000000
+A,10,100,3440,23,Indiana Avenue,Property,6,6.000000
+A,10,100,3440,24,Illinois Avenue,Property,2,2.000000
+A,10,100,3440,25,B. & O. Railroad,Railroad,2,2.000000
+A,10,100,3440,26,Atlantic Avenue,Property,3,3.000000
+A,10,100,3440,27,Ventnor Avenue,Property,4,4.000000
+A,10,100,3440,28,Water Works,Utility,3,3.000000
+A,10,100,3440,29,Marvin Gardens,Property,2,2.000000
+A,10,100,3440,30,Go to Jail,Go to Jail,0,0.000000
+A,10,100,3440,31,Pacific Avenue,Property,3,3.000000
+A,10,100,3440,32,North Carolina Avenue,Property,3,3.000000
+A,10,100,3440,33,Community Chest 3,Community Chest,2,2.000000
+A,10,100,3440,34,Pennsylvania Avenue,Property,3,3.000000
+A,10,100,3440,35,Short Line,Railroad,1,1.000000
+A,10,100,3440,36,Chance 3,Chance,0,0.000000
+A,10,100,3440,37,Park Place,Property,1,1.000000
+A,10,100,3440,38,Luxury Tax,Tax,0,0.000000
+A,10,100,3440,39,Boardwalk,Property,2,2.000000

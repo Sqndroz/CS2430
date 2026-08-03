@@ -1,0 +1,41 @@
+strategy,run,turns,seed,index,square,type,count,percentage
+A,1,1000,12431,0,GO,GO,30,3.000000
+A,1,1000,12431,1,Mediterranean Avenue,Property,22,2.200000
+A,1,1000,12431,2,Community Chest 1,Community Chest,18,1.800000
+A,1,1000,12431,3,Baltic Avenue,Property,25,2.500000
+A,1,1000,12431,4,Income Tax,Tax,16,1.600000
+A,1,1000,12431,5,Reading Railroad,Railroad,26,2.600000
+A,1,1000,12431,6,Oriental Avenue,Property,31,3.100000
+A,1,1000,12431,7,Chance 1,Chance,10,1.000000
+A,1,1000,12431,8,Vermont Avenue,Property,25,2.500000
+A,1,1000,12431,9,Connecticut Avenue,Property,23,2.300000
+A,1,1000,12431,10,Jail / Just Visiting,Jail,70,7.000000
+A,1,1000,12431,11,St. Charles Place,Property,19,1.900000
+A,1,1000,12431,12,Electric Company,Utility,32,3.200000
+A,1,1000,12431,13,States Avenue,Property,20,2.000000
+A,1,1000,12431,14,Virginia Avenue,Property,33,3.300000
+A,1,1000,12431,15,Pennsylvania Railroad,Railroad,26,2.600000
+A,1,1000,12431,16,St. James Place,Property,32,3.200000
+A,1,1000,12431,17,Community Chest 2,Community Chest,26,2.600000
+A,1,1000,12431,18,Tennessee Avenue,Property,28,2.800000
+A,1,1000,12431,19,New York Avenue,Property,37,3.700000
+A,1,1000,12431,20,Free Parking,Free Parking,28,2.800000
+A,1,1000,12431,21,Kentucky Avenue,Property,29,2.900000
+A,1,1000,12431,22,Chance 2,Chance,12,1.200000
+A,1,1000,12431,23,Indiana Avenue,Property,34,3.400000
+A,1,1000,12431,24,Illinois Avenue,Property,29,2.900000
+A,1,1000,12431,25,B. & O. Railroad,Railroad,28,2.800000
+A,1,1000,12431,26,Atlantic Avenue,Property,31,3.100000
+A,1,1000,12431,27,Ventnor Avenue,Property,20,2.000000
+A,1,1000,12431,28,Water Works,Utility,26,2.600000
+A,1,1000,12431,29,Marvin Gardens,Property,29,2.900000
+A,1,1000,12431,30,Go to Jail,Go to Jail,0,0.000000
+A,1,1000,12431,31,Pacific Avenue,Property,27,2.700000
+A,1,1000,12431,32,North Carolina Avenue,Property,18,1.800000
+A,1,1000,12431,33,Community Chest 3,Community Chest,25,2.500000
+A,1,1000,12431,34,Pennsylvania Avenue,Property,21,2.100000
+A,1,1000,12431,35,Short Line,Railroad,28,2.800000
+A,1,1000,12431,36,Chance 3,Chance,6,0.600000
+A,1,1000,12431,37,Park Place,Property,18,1.800000
+A,1,1000,12431,38,Luxury Tax,Tax,20,2.000000
+A,1,1000,12431,39,Boardwalk,Property,22,2.200000

@@ -1,0 +1,63 @@
+STRATEGY A
+  n = 100
+    10 Jail / Just Visiting           6.900000%
+    18 Tennessee Avenue               4.200000%
+    15 Pennsylvania Railroad          4.100000%
+     8 Vermont Avenue                 3.400000%
+    16 St. James Place                3.400000%
+  n = 1,000
+    10 Jail / Just Visiting           7.080000%
+    24 Illinois Avenue                3.190000%
+    19 New York Avenue                3.190000%
+     0 GO                             3.040000%
+    28 Water Works                    3.030000%
+  n = 10,000
+    10 Jail / Just Visiting           6.833000%
+    24 Illinois Avenue                3.244000%
+    19 New York Avenue                3.203000%
+     0 GO                             3.067000%
+    25 B. & O. Railroad               2.984000%
+  n = 100,000
+    10 Jail / Just Visiting           6.877800%
+    24 Illinois Avenue                3.215800%
+    19 New York Avenue                3.200600%
+     0 GO                             3.108200%
+    25 B. & O. Railroad               2.996700%
+
+STRATEGY B
+  n = 100
+    10 Jail / Just Visiting           12.900000%
+     0 GO                             3.400000%
+    32 North Carolina Avenue          3.200000%
+     5 Reading Railroad               3.100000%
+    24 Illinois Avenue                3.100000%
+  n = 1,000
+    10 Jail / Just Visiting           13.760000%
+    18 Tennessee Avenue               3.100000%
+    20 Free Parking                   2.940000%
+     0 GO                             2.790000%
+    25 B. & O. Railroad               2.790000%
+  n = 10,000
+    10 Jail / Just Visiting           13.844000%
+    24 Illinois Avenue                2.925000%
+    18 Tennessee Avenue               2.876000%
+    25 B. & O. Railroad               2.835000%
+     0 GO                             2.819000%
+  n = 100,000
+    10 Jail / Just Visiting           13.492800%
+    24 Illinois Avenue                2.935000%
+     0 GO                             2.890600%
+    20 Free Parking                   2.837900%
+    19 New York Avenue                2.826500%
+
+LARGEST STRATEGY DIFFERENCES AT n = 100,000
+  10 Jail / Just Visiting           A=6.877800% B=13.492800% B-A=+6.615000 percentage points
+  17 Community Chest 2              A=2.665900% B=2.275300% B-A=-0.390600 percentage points
+  19 New York Avenue                A=3.200600% B=2.826500% B-A=-0.374100 percentage points
+  15 Pennsylvania Railroad          A=2.939500% B=2.607900% B-A=-0.331600 percentage points
+  24 Illinois Avenue                A=3.215800% B=2.935000% B-A=-0.280800 percentage points
+  13 States Avenue                  A=2.370900% B=2.112200% B-A=-0.258700 percentage points
+  21 Kentucky Avenue                A=2.818700% B=2.563300% B-A=-0.255400 percentage points
+  26 Atlantic Avenue                A=2.713700% B=2.459800% B-A=-0.253900 percentage points
+   5 Reading Railroad               A=2.930900% B=2.681700% B-A=-0.249200 percentage points
+  11 St. Charles Place              A=2.709800% B=2.486800% B-A=-0.223000 percentage points
